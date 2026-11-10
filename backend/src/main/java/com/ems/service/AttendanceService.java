@@ -16,3 +16,4 @@ public interface AttendanceService {
     PagedResponse<AttendanceResponse> getMyAttendance(User currentUser, int page, int size);
     PagedResponse<AttendanceResponse> getAllAttendance(LocalDate date, AttendanceStatus status, Long deptId, int page, int size);
 }
+

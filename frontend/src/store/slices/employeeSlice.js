@@ -158,3 +158,4 @@ const employeeSlice = createSlice({
 
 export const { clearEmployeeStatus, clearCurrentEmployee } = employeeSlice.actions;
 export default employeeSlice.reducer;
+

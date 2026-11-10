@@ -11,3 +11,4 @@ export const leaveApi = {
   getMyBalance: () => axiosClient.get('/leaves/balance/my'),
   getEmployeeBalance: (employeeId) => axiosClient.get(`/leaves/balance/${employeeId}`),
 };
+

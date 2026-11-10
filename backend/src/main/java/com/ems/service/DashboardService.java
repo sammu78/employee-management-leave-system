@@ -8,3 +8,4 @@ public interface DashboardService {
     AdminDashboardResponse getAdminDashboardStats();
     EmployeeDashboardResponse getEmployeeDashboardStats(User currentUser);
 }
+

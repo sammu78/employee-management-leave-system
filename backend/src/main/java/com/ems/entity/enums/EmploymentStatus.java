@@ -6,3 +6,4 @@ public enum EmploymentStatus {
     TERMINATED,
     ON_LEAVE
 }
+

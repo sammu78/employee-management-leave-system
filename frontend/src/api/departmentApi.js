@@ -7,3 +7,4 @@ export const departmentApi = {
   update: (id, data) => axiosClient.put(`/departments/${id}`, data),
   delete: (id) => axiosClient.delete(`/departments/${id}`),
 };
+

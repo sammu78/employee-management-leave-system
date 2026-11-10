@@ -6,3 +6,4 @@ public enum LeaveType {
     EARNED_LEAVE,
     UNPAID_LEAVE
 }
+

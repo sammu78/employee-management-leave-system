@@ -77,3 +77,4 @@ public class LeaveBalanceResponse {
         this.unpaidLeaveUsed = unpaidLeaveUsed;
     }
 }
+

@@ -412,3 +412,4 @@ The frontend includes 15 distinct, responsive views:
 
 ## License
 Developed as an enterprise portfolio implementation. Free to use for technical interviews and reference.
+

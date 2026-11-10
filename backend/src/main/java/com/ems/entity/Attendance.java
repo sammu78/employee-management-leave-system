@@ -149,3 +149,4 @@ public class Attendance {
         this.updatedAt = updatedAt;
     }
 }
+

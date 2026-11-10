@@ -84,3 +84,4 @@ public class Department {
         this.updatedAt = updatedAt;
     }
 }
+

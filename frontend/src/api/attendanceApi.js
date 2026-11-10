@@ -7,3 +7,4 @@ export const attendanceApi = {
   getMyAttendance: (params) => axiosClient.get('/attendance/my', { params }),
   getAll: (params) => axiosClient.get('/attendance', { params }),
 };
+

@@ -59,3 +59,4 @@ public class DepartmentResponse {
         this.createdAt = createdAt;
     }
 }
+

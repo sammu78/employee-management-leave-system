@@ -6,3 +6,4 @@ public enum AttendanceStatus {
     HALF_DAY,
     ABSENT
 }
+

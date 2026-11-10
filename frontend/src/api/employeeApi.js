@@ -10,3 +10,4 @@ export const employeeApi = {
   deactivate: (id) => axiosClient.put(`/employees/${id}/deactivate`),
   delete: (id) => axiosClient.delete(`/employees/${id}`),
 };
+

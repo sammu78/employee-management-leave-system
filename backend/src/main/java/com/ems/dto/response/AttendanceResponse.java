@@ -108,3 +108,4 @@ public class AttendanceResponse {
         this.notes = notes;
     }
 }
+

@@ -96,3 +96,4 @@ public class AuthResponse {
         this.lastName = lastName;
     }
 }
+

@@ -17,3 +17,4 @@ public class CheckInRequest {
         this.notes = notes;
     }
 }
+

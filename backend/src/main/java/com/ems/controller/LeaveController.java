@@ -106,3 +106,4 @@ public class LeaveController {
         return ResponseEntity.ok(ApiResponse.success("Employee leave balance retrieved successfully", balance));
     }
 }
+

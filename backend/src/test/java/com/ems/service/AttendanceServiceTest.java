@@ -109,3 +109,4 @@ class AttendanceServiceTest {
         assertTrue(response.getWorkHours() >= 7.0);
     }
 }
+

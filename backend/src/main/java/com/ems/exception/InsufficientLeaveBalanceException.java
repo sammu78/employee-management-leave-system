@@ -9,3 +9,4 @@ public class InsufficientLeaveBalanceException extends RuntimeException {
         super(message);
     }
 }
+

@@ -78,3 +78,4 @@ public class EmployeeDashboardResponse {
         this.approvedLeavesCount = approvedLeavesCount;
     }
 }
+

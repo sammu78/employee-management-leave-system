@@ -19,3 +19,4 @@ public interface LeaveService {
     LeaveBalanceResponse getMyLeaveBalance(User currentUser);
     LeaveBalanceResponse getEmployeeLeaveBalance(Long employeeId);
 }
+

@@ -18,3 +18,4 @@ public interface EmployeeService {
     void deactivateEmployee(Long id);
     void deleteEmployee(Long id);
 }
+

@@ -72,3 +72,4 @@ public class AttendanceController {
         return ResponseEntity.ok(ApiResponse.success("Attendance records retrieved successfully", response));
     }
 }
+

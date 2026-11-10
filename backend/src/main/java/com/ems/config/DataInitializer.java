@@ -183,3 +183,4 @@ public class DataInitializer implements CommandLineRunner {
         log.info("Database seeding successfully completed!");
     }
 }
+

@@ -64,3 +64,4 @@ public class LeaveApplyRequest {
         this.reason = reason;
     }
 }
+

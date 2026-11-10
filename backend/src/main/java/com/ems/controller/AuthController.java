@@ -33,3 +33,4 @@ public class AuthController {
                 .body(ApiResponse.success("Registration successful", response));
     }
 }
+

@@ -59,3 +59,4 @@ public class DepartmentController {
         return ResponseEntity.ok(ApiResponse.success("Department deleted successfully"));
     }
 }
+

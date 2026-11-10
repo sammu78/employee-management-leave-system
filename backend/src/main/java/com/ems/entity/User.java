@@ -110,3 +110,4 @@ public class User {
         this.updatedAt = updatedAt;
     }
 }
+

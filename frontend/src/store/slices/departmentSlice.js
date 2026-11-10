@@ -96,3 +96,4 @@ const departmentSlice = createSlice({
 
 export const { clearDepartmentStatus } = departmentSlice.actions;
 export default departmentSlice.reducer;
+

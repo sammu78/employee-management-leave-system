@@ -50,3 +50,4 @@ export default function Badge({ children, variant = 'neutral', size = 'md' }) {
     </span>
   );
 }
+

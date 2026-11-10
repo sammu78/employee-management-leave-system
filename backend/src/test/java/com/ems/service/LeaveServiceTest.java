@@ -222,3 +222,4 @@ class LeaveServiceTest {
         verify(leaveBalanceRepository, never()).save(any());
     }
 }
+

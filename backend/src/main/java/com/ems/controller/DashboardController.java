@@ -36,3 +36,4 @@ public class DashboardController {
         return ResponseEntity.ok(ApiResponse.success("Employee dashboard data retrieved", response));
     }
 }
+

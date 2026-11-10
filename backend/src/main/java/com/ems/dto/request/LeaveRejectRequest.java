@@ -23,3 +23,4 @@ public class LeaveRejectRequest {
         this.rejectionReason = rejectionReason;
     }
 }
+

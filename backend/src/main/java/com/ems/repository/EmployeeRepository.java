@@ -44,3 +44,4 @@ public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 
     long countByDepartmentId(Long departmentId);
 }
+

@@ -121,3 +121,4 @@ public class LeaveBalance {
         this.updatedAt = updatedAt;
     }
 }
+
